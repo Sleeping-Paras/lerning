@@ -6,3 +6,4 @@
  // null > value represent nothing (but its an onject )
  // undefind > somthing which is not defind 
  // symbol > unique data typr hai 
+ console.log("ok")
