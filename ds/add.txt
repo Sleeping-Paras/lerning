@@ -1,1 +1,3 @@
 node ds/arr.js
+
+ node ds/object.js
